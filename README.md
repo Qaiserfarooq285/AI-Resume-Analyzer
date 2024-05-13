@@ -19,7 +19,7 @@
     </p>
 </div>
 
-
+<div align="left"
 ## Requirements 😅
 ### Have these things installed to make your process smooth 
 1) Python (3.9.12) https://www.python.org/downloads/release/python-3912/
@@ -72,3 +72,4 @@ Feel Free to mail me qaiserfarooq285@gmail.com
 
 ### Built by <a href="https://qaiserfarooq-portfolio.netlify.app/">Qaiser Farooq</a>
 
+<div>
