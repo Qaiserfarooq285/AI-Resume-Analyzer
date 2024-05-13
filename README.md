@@ -58,10 +58,9 @@ pip install -r requirements.txt
 
 python -m spacy download en_core_web_sm
 
+```
 
-
-
-## How it Works
+How it Works
 Check-out  [Video](https://youtu.be/WFruijLC1Nc)
 
 Feel Free to mail me qaiserfarooq285@gmail.com
