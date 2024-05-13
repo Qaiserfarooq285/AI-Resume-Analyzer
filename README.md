@@ -1,9 +1,7 @@
 
-
 <p><small>Best View in <a href="https://github.com/settings/appearance">Light Mode</a> and Desktop Site (Recommended)</small></p><br/>
 
-[# AI-Resume-Analyzer](https://github.com/Qaiserfarooq285/AI-Resume-Analyzer/blob/main/AI-Resume-Analyzer/App/Logo/RESUM.png)
-
+![AI-Resume-Analyzer](https://socialify.git.ci/deepakpadhi986/AI-Resume-Analyzer/image?description=1&descriptionEditable=5th%20Sem%20Final%20Year%20Project%20at%20Kirti%20M%20Doongursee%20College%20(2022%20-%2023)&font=Raleway&language=1&pattern=Plus&theme=Light)
 
 <div align="center">
   <h1>🌴 AI RESUME ANALYZER 🌴</h1>
@@ -41,7 +39,7 @@
 
 ## About the Project 🥱
 <div align="center">
-    <br/><img src="[https://raw.githubusercontent.com/deepakpadhi986/AI-Resume-Analyzer/main/screenshots/RESUME.png](https://github.com/Qaiserfarooq285/AI-Resume-Analyzer/blob/main/AI-Resume-Analyzer/App/Logo/RESUM.png)" alt="screenshot" /><br/><br/>
+    <br/><img src="https://raw.githubusercontent.com/Qaiserfarooq285/AI-Resume-Analyzer/main/AI-Resume-Analyzer/App/Logo/RESUM.png" alt="screenshot" /><br/><br/>
     <p align="justify"> 
       A tool which parses information from a resume using natural language processing and finds the keywords, cluster them onto sectors based on their keywords. 
       And lastly show recommendations, predictions, analytics to the applicant / recruiter based on keyword matching.
@@ -303,3 +301,4 @@ If you want the full report of project
 ![Screenshot](https://github.com/deepakpadhi986/AI-Resume-Analyzer/blob/main/screenshots/admin/7-pielocation.png?raw=true)
 
 ### Built with 🤍 AI RESUME ANALYZER by <a href="https://dnoobnerd.netlify.app/">Deepak Padhi</a>
+
