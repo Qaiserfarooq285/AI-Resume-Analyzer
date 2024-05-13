@@ -1,6 +1,8 @@
 
-<p><small>Best View in <a href="https://github.com/settings/appearance">Light Mode</a> and Desktop Site (Recommended)</small></p><br/>
 <div align="center">
+
+<p><small>Best View in <a href="https://github.com/settings/appearance">Light Mode</a> and Desktop Site (Recommended)</small></p><br/>
+
 ![AI Resume Analyzer](https://raw.githubusercontent.com/Qaiserfarooq285/AI-Resume-Analyzer/main/AI-Resume-Analyzer/App/Logo/RESUM.png)
 
   <h1>🌴 AI RESUME ANALYZER 🌴</h1>
