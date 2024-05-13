@@ -12,7 +12,6 @@
 
 ## About the Project 🥱
 <div align="center">
-    <br/><img src="https://raw.githubusercontent.com/Qaiserfarooq285/AI-Resume-Analyzer/main/AI-Resume-Analyzer/App/Logo/RESUM.png" alt="screenshot" /><br/><br/>
     <p align="justify"> 
       A tool which parses information from a resume using natural language processing and finds the keywords, cluster them onto sectors based on their keywords. 
       And lastly show recommendations, predictions, analytics to the applicant / recruiter based on keyword matching.
@@ -61,7 +60,7 @@ python -m spacy download en_core_web_sm
 ```
 
 How it Works
-Check-out  [Video](https://youtu.be/WFruijLC1Nc)
+Check-out  [Video](https://youtu.be/dO-QfkezZh8)
 
 Feel Free to mail me qaiserfarooq285@gmail.com
 
