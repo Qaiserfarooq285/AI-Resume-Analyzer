@@ -66,9 +66,10 @@ Feel Free to mail me qaiserfarooq285@gmail.com
 
 
 
-## Preview 👽
-https://raw.githubusercontent.com/Qaiserfarooq285/AI-Resume-Analyzer/main/AI-Resume-Analyzer/App/Screenshots/Screenshot%202024-05-13%20113104.png
+
 
 ### Built by <a href="https://qaiserfarooq-portfolio.netlify.app/">Qaiser Farooq</a>
 
 <div>
+## Preview 👽
+https://raw.githubusercontent.com/Qaiserfarooq285/AI-Resume-Analyzer/main/AI-Resume-Analyzer/App/Screenshots/Screenshot%202024-05-13%20113104.png
