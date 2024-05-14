@@ -72,6 +72,39 @@ Feel Free to mail me qaiserfarooq285@gmail.com
 
 <div>
 ## Preview 👽
+  
+##User
 
 ![image](https://github.com/Qaiserfarooq285/AI-Resume-Analyzer/assets/118597629/711ff261-5c47-4952-a095-1e2712b633c8)
+
+![image](https://github.com/Qaiserfarooq285/AI-Resume-Analyzer/assets/118597629/dd3aea19-4b75-4e72-9c42-92dcdebcc90c)
+
+![image](https://github.com/Qaiserfarooq285/AI-Resume-Analyzer/assets/118597629/167ddd53-ed96-40da-8b3d-332587b76c60)
+
+![image](https://github.com/Qaiserfarooq285/AI-Resume-Analyzer/assets/118597629/874a7cbf-cc6d-40a4-9986-106bca9a39c7)
+
+![image](https://github.com/Qaiserfarooq285/AI-Resume-Analyzer/assets/118597629/3439b2e8-afc5-4955-bb95-52e08108e6b4)
+
+##Feedback
+![image](https://github.com/Qaiserfarooq285/AI-Resume-Analyzer/assets/118597629/a72c5730-4334-4878-b241-2d1ceee37a08)
+
+##About
+![image](https://github.com/Qaiserfarooq285/AI-Resume-Analyzer/assets/118597629/79754053-57b5-4d4a-84be-127166a7f2d9)
+
+##Admin
+![image](https://github.com/Qaiserfarooq285/AI-Resume-Analyzer/assets/118597629/6b2d79d6-ea36-42dd-b3ba-f1886e278728)
+
+![image](https://github.com/Qaiserfarooq285/AI-Resume-Analyzer/assets/118597629/23b849d4-ea57-4470-a9da-7c99b11afff6)
+
+![image](https://github.com/Qaiserfarooq285/AI-Resume-Analyzer/assets/118597629/317484c7-43e4-40a0-9606-895b435702ee)
+
+![image](https://github.com/Qaiserfarooq285/AI-Resume-Analyzer/assets/118597629/2daf5b8e-a445-4661-b8cb-c44021773dfe)
+
+![image](https://github.com/Qaiserfarooq285/AI-Resume-Analyzer/assets/118597629/a940cfec-f9ad-4ad7-b2c0-fa3d131a1a01)
+
+![image](https://github.com/Qaiserfarooq285/AI-Resume-Analyzer/assets/118597629/35d62146-1ef6-4cea-afc3-5c04e27e3c30)
+
+
+
+
 
